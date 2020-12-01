@@ -1,0 +1,7 @@
+.ionide/
+
+.fake
+
+**/obj
+**/bin
+**/.vscode
